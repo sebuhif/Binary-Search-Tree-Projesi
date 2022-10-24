@@ -6,7 +6,7 @@ Bu veri yapısı node'lardan oluşuyor. Her node da iki 'child node'dan oluşuyo
 
 Burada 7 root olarak seçilir. Ondan sonra gelen 5 birimi 7'den küçük olduğu için sol tarafa yazılır:
 
-<img src="C:\Users\sebuh\OneDrive\Desktop\Untitled1.png" alt="Untitled1" style="zoom:75%;" />
+<img src="https://github.com/sebuhif/Binary-Search-Tree-Projesi/blob/main/Untitled1.png" alt="Untitled1" style="zoom:75%;" />
 
 Daha sonra gelen 1 birimi 7'den küçük olduğu için sol tarafa gider. Aynı zamanda 5'ten de küçük olduğu için onun soluna gider:
 
